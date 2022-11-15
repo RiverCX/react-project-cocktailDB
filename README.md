@@ -1,15 +1,12 @@
-#### React Router Fix
+# React Projects: Cocktails DB
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+## API
 
-#### CRA Fix
+https://www.thecocktaildb.com
 
-```
+## 知识点
 
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+1. react-route-dom 6 实现路由
+2. context api 状态管理
+3. useCallback
+4. 非受控组件
