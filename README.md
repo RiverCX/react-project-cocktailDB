@@ -1,10 +1,16 @@
 # React Projects: Cocktails DB
 
+## Live
+https://react-project-cocktail-db.netlify.app/
+
 ## API
 
 https://www.thecocktaildb.com
 
-## 知识点
+## 功能
+从API获取数据并展示，每个Item有详情页面
+
+## 技术点
 
 1. react-route-dom 6 实现路由
 2. context api 状态管理
