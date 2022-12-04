@@ -1,4 +1,4 @@
-# React Projects: Cocktails DB
+# React Project: Cocktails DB
 
 ## Live
 https://react-project-cocktail-db.netlify.app/
