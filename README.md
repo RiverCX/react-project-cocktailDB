@@ -1,14 +1,15 @@
-# React Basic Project: Cocktails DB
+# React Router Project: Cocktails DB
 
 ## Live Site
-https://react-project-cocktail-db.netlify.app/
+https://react-project-cocktail-db.netlify.app
 
 ## API
 
 https://www.thecocktaildb.com
 
-## 功能
-输入关键词，从API获取数据并展示，每个Item有详情页面
+## 效果
+1. 输入关键词，从API获取数据并展示
+2. 4个页面：About、Error、Home、Detail
 
 ## React技术点
 1. react-route-dom6 实现路由
